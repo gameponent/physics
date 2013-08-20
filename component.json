@@ -1,0 +1,18 @@
+{
+  "name": "geom",
+  "repo": "gameponent/geom",
+  "description": "Component for lazy physics simulations",
+  "dependencies": {
+    "gameponent/geom": "0.0.1"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/world.js",
+    "lib/body.js",
+    "lib/velocity.js",
+    "lib/acceleration.js"
+  ]
+}
