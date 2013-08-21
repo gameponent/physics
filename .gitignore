@@ -2,3 +2,5 @@ components
 build
 node_modules
 npm-debug.log
+.purelintrc
+purelint.log

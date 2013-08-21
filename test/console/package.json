@@ -1,0 +1,10 @@
+{
+  "name": "console",
+  "version": "0.0.0",
+  "description": "Console playground for gameponents/physics",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.x.x",
+    "jade": "x.x.x"
+  }
+}
