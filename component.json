@@ -1,9 +1,9 @@
 {
-  "name": "geom",
-  "repo": "gameponent/geom",
+  "name": "physics",
+  "repo": "gameponent/physics",
   "description": "Component for lazy physics simulations",
   "dependencies": {
-    "gameponent/geom": "0.0.1"
+    "gameponent/geom": "*"
   },
   "version": "0.0.1",
   "license": "MIT",
